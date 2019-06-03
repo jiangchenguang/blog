@@ -15,3 +15,8 @@
 **JS**
 * [Function](https://github.com/jiangchenguang/blog/issues/1)
 * [门户首屏优化记录](https://github.com/jiangchenguang/blog/issues/10)
+
+**css**
+* [visual formatting mode](https://github.com/jiangchenguang/blog/issues/14)
+* [css权威指南](https://github.com/jiangchenguang/blog/issues/13)
+* [css杂记](https://github.com/jiangchenguang/blog/issues/12)
