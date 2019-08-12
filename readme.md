@@ -13,6 +13,7 @@
 **react**
 * [Fiber入门](https://github.com/jiangchenguang/blog/issues/23)
 * [Context](https://github.com/jiangchenguang/blog/issues/24)
+* [Hydrate](https://github.com/jiangchenguang/blog/issues/25)
 
 **JS**
 * [Lexical environment:ECMAScript implementation](https://github.com/jiangchenguang/blog/issues/18)
